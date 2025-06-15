@@ -1,6 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm David Okoth</h1>
-<h3 align="center">Web Developer & Graphic Designer Specialized in Modern Web Design, Responsive Interfaces & Branding</h3>
+<h1 align="center">Hi there, I'm David 👋
+</h1>
+<h3 align="center">I'm a Web Developer and Graphic Designer based in Kenya. I help businesses and individuals bring their ideas to life through clean, responsive websites and impactful branding.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidokoth006&label=Profile%20views&color=0e75b6&style=flat" alt="davidokoth006" /> </p>
 
