@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm David Okoth</h1>
-<h3 align="center">A passionate frontend developer and a Graphics Designer</h3>
+<h3 align="center">Web Developer & Graphic Designer | Specialized in Modern Web Design, Responsive Interfaces & Branding</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidokoth006&label=Profile%20views&color=0e75b6&style=flat" alt="davidokoth006" /> </p>
 
